@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.567,D:\delphi\test\create_file.dfm=D:\delphi\test\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.165,D:\delphi\test\list.dfm=D:\delphi\test\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.720,D:\delphi\test\Unit1.pas=D:\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.720,D:\delphi\test\Unit1.dfm=D:\delphi\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,D:\delphi\test\Project1.dproj=D:\delphi\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.443,=D:\delphi\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,=D:\delphi\test\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.165,D:\delphi\test\list.pas=D:\delphi\test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,D:\delphi\test\create_file.pas=D:\delphi\test\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
